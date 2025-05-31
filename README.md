@@ -32,10 +32,11 @@ SLYKID, A Data Engineer who pursues insight through data analysis.
 - Built an internal analytics platform based on Hadoop and Apache Spark.
 - Consulted on a blockchain-based (Hyperledger Fabric) recruitment information platform.
 
+---
+
 ## 📈 Projects
 
 | Project | Duration | Description | Tech Stacks |
 |--------|-------------|------------|------|
 | | | |
 
----
